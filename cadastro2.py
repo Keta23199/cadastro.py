@@ -33,15 +33,26 @@ print("primeiro cadastro")
 print("nome:",Nome1)
 print("idade:",idade1)
 print("sexo:",sexo1)
+if(idade1<18):
+    print("é menor de idade")
+else:
+    print("é maior de idade")  
 
 
 print("segundo cadastro")
 print("nome:",Nome2)
 print("idade:",idade2)
 print("sexo:",sexo2)
-
+if(idade2<18):
+    print("é menor de idade")
+else:
+    print("é maior de idade")   
 
 print("terceiro cadastro")
 print("nome:",Nome3)
 print("idade:",idade3)
 print("sexo:",sexo3)
+if(idade3<18):
+    print("é menor de idade")
+else:
+    print("é maior de idade")  
